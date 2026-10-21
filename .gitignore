@@ -1,0 +1,84 @@
+# =====================================================================
+# .gitignore - The Indian Money Book repo
+# =====================================================================
+
+# ---------------------------------------------------------------------
+# 1. Agnes agent working area (research, caches, generated artifacts)
+#    The book's clean sources of truth (book.md, book.pdf) are committed
+#    from the repo root; everything under .agnes/ is build/scratch output.
+# ---------------------------------------------------------------------
+.agnes/
+
+# ---------------------------------------------------------------------
+# 2. Build tooling used only to produce book.pdf (not part of the book)
+#    The build workspace lives under .agnes/ (already ignored). If someone
+#    ever installs deps into a top-level node_modules, ignore it too.
+# ---------------------------------------------------------------------
+node_modules/
+npm-debug.log*
+yarn-error.log*
+package-lock.json
+
+# ---------------------------------------------------------------------
+# 3. Intermediate / build outputs
+#    Keep the finished book.pdf, ignore regenerable intermediate HTML,
+#    logs, previews, and any stray build scripts left at the root.
+# ---------------------------------------------------------------------
+*.log
+*.tmp
+preview-*.png
+pp*.png
+pdf-page*.png
+book.html
+install.log
+
+# ---------------------------------------------------------------------
+# 4. OS junk
+# ---------------------------------------------------------------------
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.lnk
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+# Linux
+*~
+trash-*
+
+# ---------------------------------------------------------------------
+# 5. Editor / IDE / tooling
+# ---------------------------------------------------------------------
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+/.project
+/.classpath
+/.settings/
+*.iml
+
+# ---------------------------------------------------------------------
+# 6. Testing / cache
+# ---------------------------------------------------------------------
+.pytest_cache/
+.cache/
+__pycache__/
+*.pyc
+coverage/
+.nyc_output/
+
+# ---------------------------------------------------------------------
+# 7. Environment / secrets - never commit real credentials
+# ---------------------------------------------------------------------
+.env
+.env.*
+!.env.example
+*.pem
+*.key
