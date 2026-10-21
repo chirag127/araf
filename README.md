@@ -13,12 +13,15 @@ safe for **text-to-speech** from start to finish.
 
 ## The book at a glance
 
-- **Forty chapters** across **seven parts**
-- **About ninety thousand words**
-- **~193 pages** as a typeset PDF
+- **Forty one chapters** across **seven parts**
+- **About ninety two thousand words**
+- **~205 pages** as a typeset PDF
 - Fully text-to-speech ready (no tables, no unexplained jargon)
 - Grounded in Indian reality: rupee figures, Indian banks, Indian tax rules,
   Indian cities, Indian family dynamics
+- The verified 2025–26 / 2026 figures (tax slabs, interest rates, scheme rules,
+  premium ranges, legal positions) are woven directly into the chapters where
+  they matter, rather than kept in a separate appendix
 
 ### The seven parts
 
@@ -30,11 +33,12 @@ safe for **text-to-speech** from start to finish.
 | Four  | 21 – 24 | Tax: the two regimes, legal deductions, capital gains, filing the return |
 | Five  | 25 – 31 | Protect & retire: health & life insurance, estate planning, parents, retirement, social security |
 | Six   | 32 – 36 | Law & the grey zone: scams, legal-but-edgy strategies, the illegal zone, legal documents, family money |
-| Seven | 37 – 40 | The 2026 landscape, a 90-day action plan, a 5-year roadmap, the lifelong money mindset |
+| Seven | 37 – 41 | The 2026 landscape, a 90-day action plan, a 5-year roadmap, the 25 avenues for chasing double-digit returns, and the lifelong money mindset |
 
-The book closes with a **verified-data appendix** — the sourced numbers (tax
-slabs, interest rates, scheme rules, legal positions) that back the figures in
-the chapters, with confidence tags.
+The book closes with a verified set of 2025–26 / 2026 figures, worked directly
+into the chapters — tax slabs, interest rates, scheme rules, premium ranges,
+legal positions — so the reading text is self-contained with no separate
+appendix.
 
 ---
 
@@ -42,7 +46,7 @@ the chapters, with confidence tags.
 
 | File        | What it is |
 | ----------- | ---------- |
-| `book.md`   | The complete source of truth — one large, TTS-safe markdown document (all 40 chapters + appendix). |
+| `book.md`   | The complete source of truth — one large, TTS-safe markdown document (all 41 chapters, self-contained, no separate appendix). |
 | `book.pdf`  | A typeset, print-ready A4 version with a cover, chapter page breaks, and running page numbers. |
 
 ## Regenerating the PDF
@@ -57,18 +61,23 @@ The build tooling lives under `.agnes/` (ignored by git, not part of the book):
 ```
 .agnes/work/finance-book/
 ├── book-header.md        # front matter + table of contents
-├── part-01.md … part-07.md
-├── research.md           # verified 2025-26 / 2026 numbers
-├── assemble.js           # rebuilds book.md from the clean sources
-├── pdf/
-│   ├── build-book.js     # markdown -> HTML -> PDF
-│   └── book.html / book.pdf
+├── part-01.md … part-07.md   # chapter text (clean UTF-8 sources)
+├── research.md           # verified 2025-26 / 2026 numbers (woven into chapters)
+├── weaves.js             # injects research data + new Ch 40 into the parts
+├── updates/              # regenerated parts after weaving (used by assemble)
+├── assemble-v2.js        # rebuilds book.md from header + updated parts
+└── pdf/
+    ├── build-book.js     # markdown -> HTML -> PDF (no header/footer)
+    └── book.html / book.pdf
 ```
 
-To rebuild after editing `book.md`:
+To rebuild after editing any source part or research.md:
 
 ```bash
-cd .agnes/work/finance-book/pdf
+cd .agnes/work/finance-book
+node weaves.js            # regenerate updates/
+node assemble-v2.js       # write C:/g/araf/book.md
+cd pdf
 npm install marked@15 playwright@1.62.1   # once
 node build-book.js "C:/g/araf/book.md"
 ```

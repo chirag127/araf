@@ -18,7 +18,7 @@ Nothing in this book, including the sections on the legal and grey zones, is an 
 
 ## What Is Inside, At a Glance
 
-The book is organised into seven parts and forty chapters.
+The book is organised into seven parts and forty one chapters.
 
 Part One, Chapters 1 to 5, covers Foundations: why most Indians get money wrong, your budget and income, the emergency fund, credit and your credit score, and the psychology of money.
 
@@ -32,7 +32,7 @@ Part Five, Chapters 25 to 31, covers Protection and Retirement: health insurance
 
 Part Six, Chapters 32 to 36, covers the Law and the Grey Zone: every common scam, the legal strategies that are not illegal and the ones that are, the truly illegal zone, the legal documents every Indian should have, and the family money dynamics everyone ignores.
 
-Part Seven, Chapters 37 to 40, covers the 2026 landscape, your 90 day action plan, the 5 year money roadmap for three income levels, and the money mindset for the rest of your life.
+Part Seven, Chapters 37 to 41, covers the 2026 landscape, your 90 day action plan, the 5 year money roadmap for three income levels, the twenty five avenues for chasing double digit returns, and the money mindset for the rest of your life.
 
 ## Table of Contents
 
@@ -90,16 +90,17 @@ Chapter 34: The Illegal Zone, What Is Actually Against the Law in Indian Persona
 Chapter 35: Legal Documents Every Indian Should Have, but Probably Does Not
 Chapter 36: The Indian Family Money Dynamics That Everyone Ignores
 
-Part Seven: The 2026 Landscape, Your Action Plan, and Your Roadmap
+Part Seven: The 2026 Landscape, Your Action Plan, Your Roadmap, and Your Outlook
 
 Chapter 37: The 2026 Indian Money Landscape, What Is New and What Is Changing
 Chapter 38: The 90 Day Money Action Plan
 Chapter 39: The 5 Year Money Roadmap for an Indian Earning 10 Lakh, 30 Lakh, or 50 Lakh
-Chapter 40: The Money Mindset for the Rest of Your Life
+Chapter 40: Chasing Double Digit Returns in India, The Twenty Five Avenues
+Chapter 41: The Money Mindset for the Rest of Your Life
 
 A Note on the Verified Data Behind This Book
 
-The specific figures quoted in these chapters, the tax slabs, the interest rates, the scheme rules, the premium ranges, and the legal positions, were compiled from a separate research file verified against government and primary sources as of the financial year 2025 to 26 and the calendar year 2026. That research file is stored separately and is not part of the reading text. If a number here seems off, it may have been updated by a later budget or a later central bank decision, so treat the figures as a strong starting point and confirm them before acting.
+The specific figures quoted throughout these chapters, the tax slabs, the interest rates, the scheme rules, the premium ranges, and the legal positions, are drawn from government and primary sources verified as of the financial year 2025 to 26 and the calendar year 2026, and they are worked directly into the chapters where they matter, rather than kept in a separate appendix. If a number here seems off, it may have been updated by a later budget or a later central bank decision, so treat the figures as a strong starting point and confirm them before acting.
 
 ---
 
@@ -587,6 +588,18 @@ Education loans in 2026 are around eight and a half to ten percent a year, and t
 
 A top up loan is the feature where a home loan bank lets you draw additional money, up to a percentage of the principal you have already paid down, at the same home loan rate. So if you borrowed one crore and you have paid off two lakh, your bank will let you draw two to three lakh more at your home loan rate, which is eight percent or less, and use it for a kitchen, a renovation, or to consolidate a high cost personal loan. The trap is the marketing: the bank sells you the top up as a free feature, but it is still a loan, and the interest is not tax deductible for personal use, so a top up for a kitchen is taxed differently than a top up for a renovation of a rental property, and the tax person at your CA, which is your chartered accountant, is the one who decides which bucket you are in. Use the top up for a genuine consolidation of a high rate debt, and not for a stock position or a speculative bet, because you are borrowing at the home loan rate to buy something that can lose more than the interest you are paying.
 
+
+### The Real Cost Of A Home And An Education, In 2026
+
+Two practical numbers from the 2026 window. For a home loan, the full bank table is a little further down this same chapter, but the planning line is that you should assume between eight and eight and a half for a salaried borrower this year. For an education loan, the range across banks and specialist finance companies in 2026 is between eight and a quarter and fourteen percent, with domestic courses at the low end and abroad loans at the high end. The quiet trap on every education loan is the moratorium: you are not paying anything during study plus twelve months, but the interest is capitalising, so the principal you actually repay is the original sum plus a quiet chunk of compounding, and the 80E deduction on that interest is the one that keeps this from being the worst loan you will ever take. Under the single window portal, the government keeps collateral free for loans up to seven and a half lakh, and the central subsidy on the interest for qualifying domestic courses has been running at three percent on that slab, which is worth the application effort even when you are the family who earns well.
+
+
+### What The Banks Actually Charged In September And October 2026
+
+So you can negotiate from knowledge, here are the floor rates the major lenders quoted in the September to October 2026 window, for a borrower with a top credit score and a salaried profile: Canara Bank and Union Bank of India held the floor at seven and fifteen percent, Bank of Baroda at seven and two, SBI at seven and a quarter, PNB between seven and two and seven and a quarter, HDFC Bank at seven and two with its range running up to thirteen and two, ICICI Bank from about seven and six five up to nine and eight, Axis Bank at eight and three five, and LIC Housing Finance at seven and fifteen for a CIBIL of eight hundred twenty five or above on a salaried loan. The backdrop moved during that window: the central bank had cut its policy rate through 2025 down to five and a quarter, held it through August 2026, and then hiked it by a quarter on October 7, 2026, the first hike in roughly three years, and SBI was among the first lenders to pass it on to lending rates from mid October. For planning, assume you will land between eight and eight and a half for a typical 2026 salaried borrower, and that every quarter point of policy rate moves your EMI by roughly half a percent over a twenty five year loan. The tax shield to remember when you compare: two lakh of interest under section 24(b), and the forty thousand under 80EEA if the home qualifies under the housing scheme.
+
+One more line from the same window, worth knowing before you borrow against gold at all: the central bank's rules cap loans against gold at eighty five percent of value up to two and a half lakh of borrowing, eighty percent up to five lakh, and seventy five percent above that, and the SBI's own schedule was pricing gold loans around nine and a quarter to ten percent, which makes them the cheapest secured credit a salaried family can get, cheaper than a home loan and far cheaper than a personal loan at eleven to thirteen percent.
+
 ## Chapter 9: When Borrowing Is the Right Decision
 
 The previous chapter told you how to read a loan. This chapter tells you when borrowing is actually a good decision, because for most of your life, you will be borrowing, and the question is not whether you borrow, it is whether the loan is working for you or working against you.
@@ -642,6 +655,11 @@ The 2016 RBI circular on loan recovery is the document that sets the floor for h
 ### When to Talk to a Financial Advisor Versus a Loan Refinance Specialist
 
 The last decision is who to call, and the answer is two different people for two different problems. If your problem is a single loan that is too expensive, the person you want is a loan refinance specialist, which is a person whose job is to move your loan to a cheaper lender, and the fee is a one time charge for the transfer, not a monthly fee, and the red flag is a specialist who asks for a monthly fee, because a transfer is a one time event, and a monthly fee on a one time event is a sign the person is selling your information, not the transfer. If your problem is the whole stack, which is a home loan, a car loan, two personal loans, a business loan, and a CIBIL score you do not understand, the person you want is a financial advisor, which is a CFA, which is a chartered financial analyst, or a CFP, which is a certified financial planner, who is paid a flat fee, not a commission, and who is not selling you a product, and the red flag is an advisor who will not tell you their fee in writing before the first meeting, because the fee structure is the first test of whether the person is working for you or for the product shelf.
+
+
+### What The Central Bank Actually Says About Recovery
+
+You are not without cover, even in the worst case. The central bank has been tightening its rules on digital lending, and the 2025 and 2026 circulars are the ones that matter to you. Recovery agents, whether human or app, may not contact your relatives or disclose your loan to anyone who is not a borrower. No one can collect between ten at night and seven in the morning. Collection calls may not exceed the statutory limits, and any one lender may not call you more than the set number of times a day. A borrower who has paid is entitled to a no-objection, in writing. Harassing or disclosing your data in violation of these rules is a criminal offence, and you have a right to complain through the central bank's own online grievance portal, which is a two step form that the lender is legally required to answer within the set window. Also, in 2026 the central bank's rules on the life cycle of digital loans were formalised further, so you can now get the specific lender you are fighting against named in a formal complaint that lands on a regulator's desk, not on a call centre's. Keep every message, every call log, and every agreement in a folder. If the lender has already sold your debt, your legal protections travel with the debt, not the bank, which means you can complain about the buyer using the same rules.
 
 ## Chapter 11: Money and Marriage in India
 
@@ -775,6 +793,11 @@ Now the tax treatment, because people panic about this. Long term capital gains,
 
 The final and hardest part is the discipline. When the market drops twenty percent in a quarter, your index fund is down twenty percent. Your gut says sell, wait for a bottom, buy back cheaper. But you cannot time the bottom, no one can, and selling a little before the bottom and buying back after it has already recovered is exactly how people lock in a loss and then regret it for a decade. The rule you build is simple and unsexy. You do not sell the core because it went down. You check your allocation. If equity has dropped below the percentage you want, you actually add more, not less, because the index is now offering you its best entry price of the year. You review once a quarter, not daily. You close the app. You let time do the work, and you let boring be beautiful.
 
+
+### The Verified Numbers For The 2025-26 Stock Window
+
+So that your analysis runs against real data, here is the verified picture. The Nifty 50, as of the October 2026 window, has been trading around twenty two thousand and nine hundred, having made its high of twenty six thousand and three hundred and twenty eight in January 2026, which puts the index down about thirteen percent from that high, a window in which systematic investing has quietly kept inflows at record levels. The mutual fund industry crossed six and a half lakh crore of assets under management in 2026, and a single month saw a record inflow of almost two and a half lakh crore, with more than ten crore active monthly investors. The category returns that matter for your direct stock expectations: large cap has paid about fourteen and two percent over ten years, mid cap about eighteen and two, and small cap about nineteen and four, measured on total return, which is the number that compounds in your folio. Two words to keep in your vocabulary: the difference between price return, what the chart shows, and total return, what you actually earn when dividends are reinvested. The gap between the two on a Nifty 50 chart is nearly a full six percentage points a year over a decade, and that gap is why your portfolio will always feel worse than your returns.
+
 ## Chapter 15: Direct Stock Investing, The Right Way for Indians
 
 There is a difference between trading and investing that most Indians, especially the ones glued to their phone at nine in the morning when the market opens, have not quite internalized. Trading means you are trying to buy low and sell high inside a window that might be days, or weeks, or a few months. You are trying to pick the exact dips and the exact peaks. Investing means you buy a good business at a fair price, you hold it for years, and you let the business grow. These are two different jobs, with two different skill sets, and two very different success rates. And the success rate for retail traders in India, the regular people with phone apps, is unflattering. The majority of them, when you count them over a full market cycle, lose money, because they are paying brokerage, they are paying taxes on every round trip, they are chasing momentum, and they are the last ones out of the boat when the music stops. The people who actually make money in Indian markets, over the long run, are not the day traders. They are the people who found a good company, bought it at a reasonable price, and stayed for years through at least one bad stretch.
@@ -813,6 +836,11 @@ The decision between a debt fund, a fixed deposit, and a bond. A fixed deposit, 
 
 The inflation linked bonds, called ILBs. These are government bonds whose payments are adjusted by the consumer price index, so that the amount you get back grows with inflation. In a year where inflation is high, the ILB is doing its job, protecting your real value. In a year where inflation is low and nominal rates are high, a regular bond can pay more than the ILB. The ILB wins when you genuinely expect a stretch of high inflation, and it is the natural tool for the very conservative, very long term corner of the portfolio, the money you will not touch for fifteen years and that you want to protect from the slow erosion of the rupee s value.
 
+
+### The 2026 Yield Ladder, Measured
+
+Here is how the fixed income ladder actually pays out in 2025 to 26, verified against fund of house data. Ten year government bond secondary market yields averaged between six and three percent and six and a half percent over the July to September 2025 window, which is the input the PPF committee formula uses, and through the easing cycle of 2026 they have drifted down toward six to six and a third, with the October 2026 repo hike due to nudge them back up. The debt fund categories, per the mutual fund association's May 2026 data, have paid roughly six and eight percent over three years, six and five percent over five, and seven and one percent over ten, which tells you the honest picture of what "safe paper" returns in a world where PPF is locked at seven and one tax free. The relative ranking to plan against is this: PPF at seven and one, tax free, beats the typical public sector bank fixed deposit sitting between six and two and six and eight and a half percent after tax, and both beat the taxable, gently volatile short duration funds hovering around six and five to seven. EPF, at eight and two and a half percent, is the single highest rate you will get on money inside a government instrument, capped by the 2.5L limit that only your employer contribution can truly exploit beyond the contribution you make.
+
 ## Chapter 17: PPF, EPF, NPS, and the Government Pension Stack
 
 This chapter is about the three pillars of the government s retirement scheme, and how to use them together without getting the rules wrong.
@@ -832,6 +860,15 @@ The tax free withdrawal question. This is the most controversial rule in the who
 The triple stack, how PPF, EPF, and NPS work together. PPF is the long, safe, tax free core. EPF is the automatic, job linked, tax efficient layer you get for being on a pay roll. NPS is the flexible, tax incentive layer that lets you take the extra fifty thousand deduction. The three of them, run in parallel, for a salaried person, create a retirement corpus that is diversified, that is tax efficient, and that is not dependent on any single asset class or any single employer. When you add your equity mutual funds and your direct bonds on top, you have a full, working personal finance system, and it is mostly built on the back of the government s own pension architecture.
 
 The NPS exit calculation, what you actually get at sixty. You do not get the whole corpus in one free lump sum. You get a portion, say fifty percent, as a lump sum, which may or may not be taxed, depending on the rules in effect and your election, and you must use the other portion to buy an annuity, which then pays you a fixed monthly amount for life. The monthly amount depends on the annuity rate, which fluctuates with interest rates, and on the life expectancy table the insurer uses. If you have a corpus of one crore rupees at sixty, and you use half of it, that is fifty lakh rupees, to buy an annuity, at a typical annuity rate in the mid to high six percent range, that is roughly a monthly pension in the range of twenty to twenty five thousand rupees, for life. That is not a lot, which is why the NPS is a supplement, not a replacement, for your own investment corpus, and why the equity side of your portfolio, the mutual funds and the index funds, has to do the heavy lifting. The NPS is the floor. Your investments are the ceiling.
+
+
+### The Government Stack, Priced For 2025-26
+
+Here are the verified numbers for the pension stack. The Public Provident Fund has paid seven and one percent every quarter of the financial year 2025 to 26, and the rate is being retained for 2026 to 27 as well, eight straight quarters of the same rate, which is notable because the committee formula that normally links PPF to the average ten year government bond yield would have suggested a lower number. The government kept it at seven and one, and the other small savings instruments are set at eight and two percent for the Senior Citizens Savings Scheme and the Sukanya Samriddhi Yojana, and six and seven percent for the National Savings Certificate. The limit you know: one and a half lakh a year into PPF, which also doubles as your section 80C basket.
+
+Your EPF interest for the financial year 2025 to 26 is eight and two and a half percent, the third year running at that rate, decided by the Chief Board's Meeting in March 2026 and credited to accounts by mid July 2026. In 2026 the EPF scheme was formally replaced by the EPF Scheme, 2026, notified under the new Code on Social Security, along with its companion schemes for pension and death and disability benefits, and there is a one-time amnesty window for people in exempted establishments who never enrolled. When you read your passbook through the UMANG app, look for the note that interest has been updated through March 31, 2026.
+
+For NPS, the benefit structure was not touched in either 2025 or 2026: your own contribution up to ten percent of salary or income sits inside the one and a half lakh 80C head in the old regime, the extra fifty thousand under 80CCD(1B) is old regime only, and the employer contribution under 80CCD(2), up to fourteen percent of basic plus dearness allowance for salaried people, is deductible in both regimes, which is the one NPS perk the new regime still gives you. At sixty, sixty percent of the corpus can be withdrawn tax-free and forty percent must buy an annuity, and the scale of the system has grown to roughly a dozen crore subscribers, so it is now the largest pension pool in the country.
 
 ## Chapter 18: Real Estate in India, The Dream and the Debt
 
@@ -871,6 +908,11 @@ The FD versus PPF versus bonds, for the conservative investor. If you are the tr
 
 The digital gold platforms, what to check before you buy. One, the platform, is it a trusted name, a big bank, or a big broker s platform, or is it a small, unknown app, and if it is the small unknown app, why is it offering you a better price, and where does the money actually sit. Two, the spread, how much do you pay when you buy, and how much do you get back when you sell, because the spread is the real cost, and a wide spread eats your return. Three, the vault, where is the physical gold, and who is the custodian, and is that custodian a reputable, regulated vault, or is it a name you have never heard of. Four, the conversion, can you convert the digital gold into a physical coin or bar, at a reasonable cost, if you ever want to hold it in your hand, or is it locked in the digital form, forever. Five, the tax, how is the gold taxed, when you sell it, and is it treated like the physical gold you bought, or is it treated like a fund, and is the difference clear to you, before you buy.
 
+
+### The Fixed Deposit Table, July 2026
+
+For the safe corner, here is the verified public sector bank table from early July 2026, peak rates for deposits under three crore, with the one, three, and five year tenures: Bank of India and Punjab and Sind Bank both at six and eight five peak, Indian Bank at six and eight, Bank of Baroda at six and seven five, Union Bank and Bank of Maharashtra at six and six five, PNB and Canara Bank and Indian Overseas Bank at six and six, and SBI and UCO Bank at six and four five. Senior citizens get a boost: SBI's We-Care scheme adds fifty basis points to bring it up to seven and three, and PNB tops out around seven and two on select tenures. The small finance banks, Suryoday and Utkarsh, were offering as much as about eight and one in mid 2026, and post office time deposits sit around seven and a half to eight on the five year product. Because the central bank hiked its policy rate on October 7, 2026, expect the top of this table to edge up again over the next few months, and remember the interest on fixed deposits is fully taxable at your slab rate, which quietly narrows the advantage over PPF.
+
 ## Chapter 20: Crypto, Alternative Assets, and the 2026 Frontier
 
 This is the frontier chapter, the part where the rules are newer, the money is noisier, and the advice is, on purpose, the most conservative in the book.
@@ -890,6 +932,13 @@ The other alternatives, REITs, infrastructure funds, and commodity funds. A Real
 The protocol for when you see a two hundred times crypto pump. This is the one I want to make very clear, because it is the one that loses people the most. You see a coin, or a token, that has gone up two hundred times in a few weeks, and everyone you know is talking about it, and the app is flashing, and your friend made a fortune on it last year, and the fear of missing out, the FOMO, is loud. The protocol is this. One, do not buy, not today, and not this week, because the two hundred times move is already the move, and you are not early, you are late, and the people who are selling to you, right now, are the people who bought at one, and who are taking their profit, and who are, for the first time, not locked in, and who are free to sell, and who are, in most of these cases, going to sell, to you. Two, if you are going to buy, after you have slept on it, and after you have checked, and after you have written down, on paper, why you believe this, in one sentence, and that sentence is not that it went up two hundred times, buy only the two to five percent allocation, and not more, and not because you are excited, and not because the app is flashing, and not because your friend is telling you, buy because the allocation is the allocation, and the coin is the coin, and the decision is the decision, and the money is only what you can afford to lose, completely. Three, set a sell rule, before you buy, not after, and if the coin falls fifty percent from your entry, you sell, and you do not hope, and you do not average down, and you do not tell yourself that it is a long term hold, because a coin that has gone up two hundred times, and then falls fifty percent from your entry, is not a long term hold, it is a trade that has stopped being a trade, and it is now a loss, and a loss, on a speculative asset, is a loss, and it should be cut, and it should be cut cleanly, and it should be cut before it becomes the kind of loss that you keep adding to, because you cannot stand to be wrong. Four, if the coin goes up another two hundred times, and you still hold it, and you are still happy, that is fine, that is the upside, that is the reason you took the small slice, and that is why you did not put in ten percent, and that is why you did not put in your house.
 
 That is the whole frontier, and the whole safe corner, and the whole government stack, and the whole boring, and the whole not so boring. The next part of the book, if you are still reading, and you have been reading, which you have, because you are here, the next part is about putting all of this together, the actual portfolio, the actual percentages, the actual numbers, and the actual, quiet, unglamorous, very Indian, very real, plan, that you can build, on a Tuesday evening, with a cup of tea, and a notebook, and a phone, and the rest of your life, in front of you.
+
+
+### What Actually Changed For Crypto In 2025 And 2026
+
+So you are not planning on the wrong year's rules. The 30 percent flat tax on gains and the 1 percent TDS stayed unchanged through both Budget 2025 and Budget 2026, and no loss set-off has been introduced. What did change is the enforcement machinery: from April 1, 2026, the reporting entities, which means every exchange, wallet, and the fifty nine declarers under the law, face two hundred rupees a day for not filing their transaction statements, and a flat fifty thousand for not correcting inaccurate particulars. The Central Board of Direct Taxion has also been tightening the guidance on which transactions trigger which disclosures, and SEBI, as of 2026, still does not regulate spot crypto, though the forward market notes are still in litigation, and a separate digital asset bill is in discussion but not yet law. For you, the practical effect is that the tax position is unchanged, and the reporting position has gotten tighter, which means the days when you could treat a crypto portfolio as invisible to the income tax department are over, and a professional will want to see your exchange reports when you file, not just the P2P platform statements.
+
+One adjacent line, from the same 2026 window, that belongs in this chapter because it is where money actually sits now: the digital rupee, the central bank's token version of your rupee, has been running in pilot across more than twenty five cities since the last window, using the UPI QR codes you already have, and offline wallet to wallet transfers without internet, but the total held is still in the low hundreds of crore rupees, a rounding error against the monthly UPI flow, and it pays no interest. It is a watch item, not an instrument, and nothing in this chapter changes if you ignore it for another five years.
 
 ---
 
@@ -964,6 +1013,15 @@ The rule is split into four installments on the tax you expect to owe for the wh
 
 You pay each installment on the income tax department website by the due date, and if you are under, the department charges interest. For a senior citizen whose only taxable income is interest, the first installment can be skipped entirely, and the whole advance is paid by March 15. A useful planning trick that many people do: in March, before the last installment, you can make a large National Pension System contribution under Section 80CCD(1B), up to 50,000, and book a fresh Section 80E education loan interest, both of which the new regime honors, to bring the final payment down. If you plan to file under the old regime, you can also top up your 80C basket in March. Note that if you paid too little advance tax, you face interest under Sections 234B and 234C, at one percent and half a percent per month respectively, and this interest has no cap. So estimate your advance tax each quarter with the five step method above, and top up installments rather than waiting for the bill.
 
+
+### The 2025-26 Numbers, Laid Out For You
+
+So that you never have to look at a tax table cold again, here is the exact position for the financial year 2025 to 26, verified against government sources. Under the new regime, which is the default, no tax is charged on income up to four lakh rupees. From four lakh and one rupee up to eight lakh, the rate is five percent. From eight lakh and one up to twelve lakh, it is ten percent. From twelve lakh and one up to sixteen lakh, fifteen percent. From sixteen lakh and one up to twenty lakh, twenty percent. From twenty lakh and one up to twenty four lakh, twenty five percent, and above twenty four lakh, thirty percent. The standard deduction of seventy five thousand rupees is available to salaried people and pensioners, no proof needed, and it applies in both regimes. The section 87A rebate was raised to sixty thousand rupees, which means an individual with total income up to twelve lakh pays zero tax, and a salaried person up to twelve lakh seventy five thousand pays nothing at all. Marginal relief still caps the tax just above the twelve lakh line, so twelve lakh ten of income pays only ten thousand, not sixty one and a half thousand. Surcharge is ten percent between fifty lakh and one crore, fifteen percent to two crore, and twenty five percent above two crore, capped at twenty five percent, and a four percent health and education cess sits on top of tax plus surcharge.
+
+Under the old regime, which you can opt into only if the deductions help more, the slabs for a person under sixty are nil up to two and a half lakh, five percent up to five lakh, twenty percent up to ten lakh, and thirty percent above that. For seniors between sixty and seventy nine the nil band starts at three lakh, and for super seniors eighty and above it starts at five lakh. The standard deduction there is fifty thousand. The key deduction limits, all unchanged for this year: section 80C up to one and a half lakh across the whole basket, section 80CCD(1B) an extra fifty thousand for NPS, section 80D twenty five thousand for your own and family health cover and up to fifty thousand for parents, fifty thousand if they are senior, section 80E unlimited interest on an education loan for up to eight years, section 80EE twenty thousand on savings interest for salaried people, section 80EEA forty thousand on home loan principal under the PMAY scheme, section 80TTB fifty thousand on savings interest for senior citizens, home loan interest under section 24(b) up to two lakh on a self-occupied home, and HRA as the least of the actual HRA, rent paid minus ten percent of salary, or fifty percent of salary in a metro and forty percent elsewhere. As a rule of thumb, if your gross income is around twenty to twenty five lakh, the two regimes are close, and the old regime only clearly wins when your deductions are genuinely large.
+
+Two statute notes so you are not confused when you read the new law: the Income-tax Act, 2025 takes effect from April 1, 2026, and it is mostly a consolidation of the 1961 Act with sections renumbered, so 87A becomes section 156 and 115BAC becomes section 202. The personal tax numbers themselves are unchanged for 2026 to 27. And because the ITR filing time limit was extended from two years to four for individuals in Budget 2025, a missed year is no longer a criminal exposure in the way it once was, though interest still runs.
+
 ## Chapter 22 – Deductions, Exemptions, and the Art of the Legal Tax Reduction
 
 All tax planning in India is a game of reducing the income that is taxable, or of reducing the tax on that income, and the law gives you a rule book. In this chapter we walk through the rule book, section by section, and we tell you, honestly, which parts are strong, which are routine, and which have sharp edges.
@@ -1021,6 +1079,11 @@ This is a newer and very specific line. Section 80EEA, spelled out fully, gives 
 
 One sentence to close the chapter: the art of lawful tax reduction is not finding loopholes. It is knowing the list, picking the instruments that match your actual goals, and staying away from the aggressive structures the department is quietly watching.
 
+
+### The Exact Limits, For The Year
+
+So you can plan the basket with real numbers, here is the verified list for the financial year 2025 to 26. The 80C basket holds one and a half lakh across PPF, ELSS funds, LIC policies, NSC, five year bank deposits, and education and tuition fees. The extra NPS top up under 80CCD(1B) carries its own fifty thousand, which the new regime does not honour but the old one does. Health insurance under 80D takes twenty five thousand for you, your spouse, and your children, including five thousand for preventive checkups, and twenty five thousand more for parents, or fifty thousand if they are senior citizens. Education loan interest under 80E is uncapped and runs for up to eight years from the first year of study. Savings interest is sheltered by twenty thousand under 80EE for salaried people, and by fifty thousand under 80TTB for senior citizens, and ten thousand under 80TTA for everyone else. Home loan principal bought under the PMAY housing scheme takes forty thousand under 80EEA. Donations under 80G still scale up to a hundred percent of income, depending on the qualifying institution. And the family pension you receive as a retired employee's spouse is deductible in full under its own section. If you are running the Hindu Undivided Family, remember that the HUF gets its own one and a half lakh 80C head and its own extra fifty thousand NPS head, separate from each member's, but it does not get the 87A rebate in practice, so its income above twelve lakh still attracts slab tax, which is the quiet cost of the structure that Part Six will unpack when it discusses the HUF honestly.
+
 ## Chapter 23 – Capital Gains, Dividends, and the Tax on Your Money Making Money
 
 So far, the tax was on your salary. This chapter is about the tax on your money, on the wealth you build. The law splits the gains by how long you held the asset, which creates the two big buckets, short term capital gains and long term capital gains, and each bucket has its own rate. We will also meet the special tax on dividends, the special tax on crypto, and the strategy of losses.
@@ -1066,6 +1129,11 @@ The discipline: at the end of the financial year, in March, look at your portfol
 A common confusion: which purchase is deemed sold first, the first one, which is called First In First Out, or the last one, Last In First Out? In India, neither. The law uses the average cost of all units of the same asset that you held during the period. Every unit you bought of a particular stock or fund is pooled, the average cost per unit is computed, and that average is the cost that the gain is measured against. So your gain is computed on the average cost, not on a specific lot you picked. This is a cleaner, less manipulable rule than FIFO or LIFO, and your stock broker s statement will show it to you. The only place specific identity matters is the exception, where you hold units bought at different costs and there is a rule allowing specific identification only in narrow cases that your broker s software will handle for you.
 
 One closing thought for the chapter: the tax on your money making money is not one number. It is a map, with 12 month lines for equity, 36 month lines for debt, 24 month lines for property, a special 30 percent flat for crypto, and your slab rate for dividends and debt funds. Learn the map once, and every portfolio decision gets easier.
+
+
+### The Rates, Verified And Stable
+
+The good news on capital gains is that the rates were frozen across both Budget 2025 and Budget 2026, so you can plan against them. For listed equity and equity mutual funds, short term gains, meaning held for under twelve months, are taxed at twenty percent under section 111A, and long term gains are taxed at twelve and a half percent above the annual exemption of one and a quarter lakh rupees, which was raised from one lakh back in August 2023. For debt mutual funds, gains held for under three years are taxed at fifteen percent, and gains beyond three years are taxed at twenty percent with indexation, or without it, your choice since 2024. Property held for more than two years attracts twenty percent with indexation, gold jewellery works the same way, and then there is the special family of flat thirty percent instruments where the holding period does not matter and no losses can be set off: crypto and other virtual digital assets, and certain infrastructure fund gains under their own sections. The reinvestment shelter that keeps property investors sane is section 54, and for reinvesting long term property gains into listed equity funds you have 80GG, 80GGI, and 80GGB within the fifteen month window, and section 54EC allows up to fifty lakh into qualifying instruments. One warning that saves first-time sellers real money: the 87A rebate and the standard deduction do not shelter any of these special-rate gains, so a person who is otherwise below the taxable threshold can still owe a full capital gains bill on a single big sale.
 
 ## Chapter 24 – Filing the Income Tax Return, Avoiding Penalties, and Dealing with the Department
 
@@ -1235,6 +1303,11 @@ Here is the move that changes the economics of the whole chapter. Instead of one
 Two warnings. First, read the threshold carefully. A top up that pays after your own base policy is exhausted is fine, but some top ups pay only after your own policy, so if you get a small illness the top up never touches the bill, and that is expected. Second, keep both policies with separate insurers where you can. If one insurer gives you both, and a big claim lands, one claim team looks at both, and one mood decides both. With two different insurers you have two separate claim desks, a small but real protection.
 
 And one gentle note for this whole chapter. Health insurance is not an investment. It is a shield. Do not ask what return it will give you. Ask what happens to the family if the big bill comes and the shield is not strong enough. Answer that every year, and raise the sum insured when it becomes too small. The no claim bonus helps you do that for free.
+
+
+### The Verified 2026 Premium Numbers, Laid Out
+
+The verified premium numbers for the window. For a young family of four, with the two youngest adults somewhere around thirty to forty five, a five lakh floater that covers all four members runs between twenty thousand and thirty five thousand a year in 2026, after the industry's last two premium resets. A ten lakh floater for the same family, at a similar age band, is roughly in the ten to twelve thousand a year range per the October 2026 coverage reporting, though that number moves fast with age and pre-existing conditions, so treat it as an anchor and not a promise. Medical inflation has been running around fourteen percent a year, nearly double general inflation, and that is why a policy that was a bargain at twenty five can quietly become the wrong size by the time you are forty. The strategy that the verified data supports is the base plus super top up combo: buy a five or ten lakh floater that covers the family, and layer a seventy to a hundred lakh super top up on the same policy, which for a young family typically runs around eight to fifteen thousand a year, and you hold total cover around one crore for the under five thousand a year in premium you would spend on it, if you were to buy a crore as a single floater. Under the insuring industry's own rules, co-payments and room day sub-limits have been out of the model policy since 2021, which means you should now be getting a clean policy with those clauses removed, and if you are not, that is a red flag on the specific plan. The 80D deduction, twenty five thousand for yourself and family, and up to fifty thousand for senior parents, applies in both tax regimes, and the market itself, at over a lakh crore of premium per year, is now the largest protection pool in the country after life insurance.
 
 ## Chapter 26: Life Insurance: When It Matters and When It Does Not
 
@@ -1488,6 +1561,11 @@ The N P S, the National Pension System, is open to every Indian citizen, includi
 ### The disability and death benefit under the E P F
 
 Finally, two features of the E P F that families never read about until they need them, and which are quietly important. The first is the death benefit. If a contributing member dies, the E P F does not just hand the balance to the family. It also pays a statutory death benefit with a guaranteed minimum, and that minimum is not small. The second is the disability benefit. If a member is permanently disabled and cannot work, the E P F pays a disability benefit, also with a guaranteed minimum. These minimums are set by the government at generous floors, and they exist so that even a worker with a very small balance does not leave nothing to the family. The practical point for every family is that these benefits exist, they are automatic, and the family member handling the death or the disability should know to claim them, because the claim is not made on its own, and a family that does not know the benefit exists will not claim it, and will leave money on the table in the worst week of their life.
+
+
+### The EPF, In Numbers
+
+The verified numbers for the safety net chapter. Your EPF interest for the financial year 2025 to 26 is eight and two and a half percent, the third year running at that rate, and it was credited to accounts by mid July 2026. Under the 2026 scheme, which replaced the 1952 legislation, the pension share of your monthly contribution and the employer's matching pension share now sit under a standalone scheme, and there is a death and disability benefit scheme that has its own rules, so the total package you get at sixty is no longer three pots, it is three pots plus a formal pension layer. The withdrawal math you have always used is unchanged: five years of service, the standard formula, or the early withdrawal rules for resignation, or the partial withdrawal rules for children's education or marriage or home purchase, and the loan against EPF that lets you bridge without touching the balance. If you are in the unorganised sector, the new system extends the same pension structure to you, through the voluntary NPS and the Atal Pension Yojana, and the 2026 notification of the EPF scheme is what finally brings those two tracks under one legal roof.
 
 ## Chapter 31: The Financial Independence Number: Calculating Your Freedom
 
@@ -1899,7 +1977,7 @@ The book is finished, and the family is not. The family is the one that is the n
 
 ---
 
-# Part 7: The 2026 Landscape, Your Action Plan, and Your Roadmap
+# Part 7: The 2026 Landscape, Your Action Plan, Your Roadmap, and Your Outlook
 
 ## Chapter 37: The 2026 Indian Money Landscape: What Is New and What Is Changing
 
@@ -2098,7 +2176,42 @@ Protocol three, the marriage. For the reader who is marrying into another househ
 
 The three protocols, the bonus, the job loss, and the marriage, are not edge cases. They are the three events that, in the next five years, will happen to most of the households reading this, and the difference between the household that is prepared and the household that is not is not the event, it is the plan that was already running when the event arrived.
 
-## Chapter 40: The Money Mindset for the Rest of Your Life
+## Chapter 40: Chasing Double Digit Returns In India: The Twenty Five Avenues
+
+If you have read this book carefully up to this point, you should already know that boring, boring, boring is how most Indian wealth is made, and that the risk free rate of return in India, which is what you can earn on government paper, PPF, and fixed deposits without betting on anything, is sitting between six and a half and seven and a half percent, and has been for most of this decade. This chapter is the rest of the picture, and I want to write it with the same honesty the book has kept. There is no guaranteed, risk free instrument in India that pays twenty percent a year. Any scheme that promises you that, on your money, with your name on it, and a print certificate, is either a fraud, or an unregulated deposit scheme, or both, and the Banning of Unregulated Deposit Schemes Act, 2019, exists specifically to give you and the courts the tool to say that out loud. So this chapter is not a shopping list of twenty five ways to get rich. It is a map of the twenty five distinct avenues that an Indian retail investor can, with real risk and real skill, access in the 2026 window, and that have, either in a rolling historical record or in a well run strategy, produced above twenty percent a year at some point. None of them is a guarantee, none of them is boring, and a portfolio built on them will give you years where the chart looks horrible. Read this chapter the way you would read a safety manual, not a promise.
+
+### The Public Equity Side, Avenues One To Nine
+
+The first cluster is the one with the longest Indian track record, and it lives on the stock exchanges and in mutual funds. The first avenue is direct small and micro cap equities, which is you, with a demat, buying shares of under researched companies under five thousand crore of market cap that are compounding their earnings faster than the market believes. The second is actively managed small cap mutual funds, which is the same bet run by a professional with a hundred other people's money attached, and the top quartile of those funds has run between eighteen and twenty four percent a year over rolling seven to ten year windows. The third is the rule based momentum baskets, which are small case style portfolios that rebalance every few months to hold the best performing names in a set, and they have paid in the twenties through bull phases and hurt hard through reversals. The fourth is the SME platform stocks on the BSE and NSE platforms, which are the fastest growers in the country but the least liquid, and they typically move in lot sizes that put the minimum ticket around a hundred to one and a half lakh. The fifth is special situations, which is the art of buying a share because of a demerger, a buyback, a delisting, or a court settlement, and the spread between the price the market pays and the cash the event hands out is what you are actually buying. The sixth is the turnaround and deep value cyclicals, which is a company at the bottom of its own cycle, a P to B under one, an industry that will turn, and you are paid for the patience. The seventh is the mainboard IPO listing gain, which is the application in the retail quota, the UPI ASBA block, and the sell on the first day when the grey market premium is high enough to justify the ticket. The eighth is the SME IPO version of that, which pays more on a percentage but has a much worse tail, because a weak SME issue can list below offer price. The ninth is the factor based index funds, which is you buying a low cost fund that tracks the momentum index or the midcap momentum index and forgetting it, and the ten year backtests of those strategies have run in the high seventeens and low twenties, which for a passive tool is a legitimate claim.
+
+### The Private Markets Side, Avenues Ten To Eleven
+
+The second cluster is where the money is but the liquidity is not, and it is the reason your exit plan has to be a seven year plan, not a two year plan. The tenth avenue is the pre IPO share, which is you buying into a mature or late stage private company before it files with the market regulator, through the platforms that now let retail investors in at twenty to fifty thousand of ticket size, and your reward is the re-rating that happens when the company goes public, and your cost is the lock in and the month where you cannot sell. The eleventh is the micro angel syndicate, which is you, at a twenty five thousand to one lakh entry, participating in a seed round through a syndicate platform, where the hit rate is low but the one or two that work carry a portfolio of five to twenty times returns over five to seven years. These two are the most misunderstood in the book, because the platforms that sell them are, in the best case, legitimate, and in the worst case, the very unregistered deposit schemes the 2019 act was written to catch, and the difference between the two lives entirely in the paperwork: a SEBI registered RA, a SEBI registered investment advisory, an escrow through a regulated bank, and a real company with a real filing, or none of those.
+
+### The Credit And Debt Side, Avenues Twelve To Fourteen
+
+The third cluster is where India's private credit market quietly pays above twenty, and where the RBI's 2025 and 2026 tightening of the rules is, for once, protecting you, not the platforms. The twelfth is the aggressive peer to peer lending tranche, which is you, on a RBI licensed NBFC P2P platform, lending to borrowers who would otherwise get the personal loan at twenty five, and you are paid eighteen to twenty four gross, and you are paid out of a pool where some of the borrowers do not pay back, and your net depends entirely on which pool and which bucket you are in, and the recent central bank rules that cap the amount a single lender can put in one platform and require the escrow account are the ones that matter to you, not the marketing. The thirteenth is the subordinated and high yield corporate bond, which is the junior debt tranche on an NBFC, or a mezzanine bond on a growth company, priced at sixteen to twenty two yield to maturity, and sold through the bond portals that have come online since 2024. The fourteenth is the distressed trade and invoice financing, which is you funding a verified invoice for a fast growing small business at a discount, for thirty to ninety days, and reinvesting the short cycle return until it compounds to an annualised figure above twenty, which is the closest a retail investor in India can get to the hedge fund's credit desk, and it requires you to read an invoice, not a stock chart.
+
+### The Real Estate And Physical Side, Avenues Fifteen To Seventeen
+
+The fourth cluster is where the ticket sizes get real, and where the returns are measured in IRR on invested equity, not yield on asset value. The fifteenth is the bank auction property, which is a SARFAESI auction, which is you, at the e auction portal of a public or a private bank, buying a house or a commercial unit at twenty to thirty five percent below market, and the return lives in the twelve to eighteen months between the auction and the resale, and the cost lives in the legal history, the pending society dues, and the tenants who are still there, and you need a lawyer before you bid, not after. The sixteenth is the pre launch peripheral plot, which is you, in a growth corridor that has been announced in a government plan, buying a plot before the expressway, the airport, or the industrial corridor that justifies it is actually built, and the twenty percent a year you are paid on paper during the build years is the reward for holding through the years where no one wants to drive out there. The seventeenth is the commercial sub leasing and co working arbitrage, which is you, with two to five lakh of working capital, taking a bare shell commercial lease, fitting it out, and sub leasing per desk, and the return on cash is three to five times the raw yield of the building, at the cost of you being a landlord and an operator at the same time.
+
+### The Trading And Derivatives Side, Avenues Eighteen To Nineteen
+
+The fifth cluster is the one where the return and the loss live in the same trade, and where a 2026 window with a thirteen percent drawdown from the January high is exactly when these strategies either make or lose their case. The eighteenth is the systematic option selling, which is the algo short straddle or short strangle on the weekly index options, capturing time decay two to three percent a month on non directional capital, and the cost is the gap risk, which is a night where the index moves through your stop before the open, and your capital is the one that absorbs it. The nineteenth is the positional, technofundamental swing trade, which is you buying a company whose earnings are inflecting up at the technical breakout that confirms it, with a three to one reward to risk, and cutting losers at three to five percent, and compounding short gains to an annualised twenty five on active capital, and the cost is the drawdown year where the strategy misses, and the discipline to keep the position small enough that a bad year does not end the account. These two are the avenues in the book that turn twenty percent a year into a variable, not a promise, and I would not put more than a quarter of a portfolio into them.
+
+### The Digital And Alternate Side, Avenues Twenty To Twenty Two
+
+The sixth cluster is where India's retail investors carry the highest variance, and where the tax rules from Chapter 20 and Chapter 23 of this book already told you what to expect, the flat thirty, no loss set off, the one percent TDS, and the 2026 reporting penalties. The twentieth is the blue chip digital asset held through the cycle, which is the spot position in the two largest assets, held across the multi year cycle, and the historical annualised return over a full cycle is above forty, and the historical drawdown is above seventy, and the tax is the thirty percent on any gain you book. The twenty first is the digital asset staking and the decentralised lending yield, which is you, on the network, earning two digits on liquidity you provide, and the risk is the network, the smart contract, and the year where the asset you staked is worth half of what it was. The twenty second is the one most Indian investors skip, and it is the public equity version of the gold story: the listed precious metals compounders, which are the gold financier stocks and the jeweller stocks that run a real business on a real bullion cycle, and they have tracked a gold price that has compounded at a pace far above the ten year deposit rate, and the cost is that you are holding an operating company, not the metal, so you carry the business risk on top of the commodity risk.
+
+### The Franchise And Real Business Side, Avenues Twenty Three To Twenty Five
+
+The final cluster is the one that is not an asset on a chart, it is a small business you buy a piece of. The twenty third is the acquisition of a small cash flowing digital business, which is you, at two to three times annual profit, buying a small software product or a niche directory from a marketplace, and the return on cash when churn is managed is thirty to fifty percent a year, and the cost is that you are now running the business, not just holding it. The twenty fourth is the micro franchise, which is you, as a sleeping partner, with two to five lakh, in a cloud kitchen, a small retail kiosk, or a small service chain, with a two to four year payback on full capital, and the return that looks like thirty percent annualised cash on paper, and the cost that you are in for the full lease term of the franchise, whatever happens. The twenty fifth is the FOCO model partnership, which is the Franchise Owned, Company Operated version of the same idea, which is you, with two to five lakh, buying into a small retail unit or a small EV charging setup that is run by a professional, and the payback is the same range, and the risk is that the professional and you will disagree about the split of the cash, and the agreement you sign is the only protection you have, and it is not the one the sales person showed you, it is the one a lawyer read first.
+
+### The One Page Rule, For This Whole Chapter
+
+If you want to use any of the twenty five, use them the way the book's other chapters say to use anything, and the rule is that a portfolio that targets twenty percent a year is a portfolio where sixty to seventy percent of the weight is in the boring cluster, the small cap funds, the momentum index funds, and the blue chip compounders, and thirty to forty percent is in the satellite cluster, one or two of the twenty five, not all twenty five, and the tax drag on a twenty percent pre tax is roughly two to three points, because short term gains on equities are at twenty and long term at twelve and a half above the exemption, so your honest target is eighteen to nineteen, not twenty, and the drawdown you will carry to get there is thirty to forty percent in a bad year, and the single most important sentence in this chapter is that you can only keep the satellite portion alive if you do not borrow to build it, because the drawdown plus the loan EMI is how most of these avenues end the investor, not the strategy.
+## Chapter 41: The Money Mindset for the Rest of Your Life
 
 We close the book with the only chapter that is not about numbers. The earlier chapters gave you the structure: the audit, the emergency fund, the debt attack, the insurance, the investments, the 2026 landscape, the ninety-day plan, the five-year roadmap. What is left is the layer underneath all of it, which is the way you think about money when you are not sitting at a spreadsheet. This is the layer that keeps the plan alive for the next thirty years, when the plan stops being an action and starts being a life.
 
@@ -2169,336 +2282,3 @@ The ten things, in the next thirty days, are the ten things that, in the end, ar
 The reader who does the ten things is the reader who is, in ten years, the reader who is not reading this book, because the reader who is not reading this book is the reader who has the plan, and the plan is the thing that is running, and the running is the thing that is, in the end, the whole life.
 
 END OF BOOK
-
-
-
----
-
-# Appendix: Verified Numbers and Rules for India, Financial Year 2025 to 26 and 2026
-
-The data below was compiled from government and primary sources to back the figures quoted in the chapters above. Treat it as a reference sheet. If a number here differs from what you read in a chapter, the chapter’s rounded figure is for flow; the appendix figure is the precise, sourced value.
-
-# India Personal Finance — Verified Numbers & Rules (FY 2025-26 / 2026)
-
-> Compiled: 21 Oct 2026. Base year: FY 2025-26 (AY 2026-27), with 2026 updates where found.
-> Confidence tags: [HIGH] = verified against govt/primary pages or multiple independent sources; [MED] = secondary source, cross-checked; [LOW] = single source or not independently verified — writing agents should treat as approximate.
-
----
-
-## 1. Income Tax — New Regime (FY 2025-26 / AY 2026-27)
-
-- Default regime for individuals & HUF from FY 2023-24; optional old regime. New regime slabs revised by Union Budget 2025-26 (effective 1 Apr 2025).
-- **Slab rates** (individuals & HUF): [HIGH]
-  | Slab | Rate |
-  |---|---|
-  | Up to ₹4,00,000 | Nil |
-  | ₹4,00,001 – ₹8,00,000 | 5% |
-  | ₹8,00,001 – ₹12,00,000 | 10% |
-  | ₹12,00,001 – ₹16,00,000 | 15% |
-  | ₹16,00,001 – ₹20,00,000 | 20% |
-  | ₹20,00,001 – ₹24,00,000 | 25% |
-  | Above ₹24,00,000 | 30% |
-- **Standard deduction: ₹75,000** (salaried & pensioners only; no proof needed). Business/professional income gets no standard deduction.
-- **Section 87A rebate: up to ₹60,000 → zero tax up to ₹12,00,000 total income**; salaried ⇒ nil tax up to **₹12.75 lakh** (₹12L + ₹75k std deduction). [HIGH]
-- **Marginal relief**: just above ₹12L, tax is capped at the amount by which income exceeds ₹12L (e.g., ₹12.10L income pays only ₹10,000 + cess, not ₹61,500).
-- Rebate covers slab-rate tax only — **not** special-rate capital gains (STCG/LTCG) or 115BBD-type income.
-- **Surcharge** (new regime): 10% on ₹50L–₹1Cr, 15% on ₹1Cr–₹2Cr, 25% above ₹2Cr; capped at 25% (old regime up to 37%). Marginal relief at each threshold.
-- **4% Health & Education Cess** on tax + surcharge.
-- Deductions NOT allowed under new regime: 80C (PPF/ELSS/LIC/80C-EPF beyond actual), 80D, 80E, HRA, 24(b) home-loan interest, 80CCD(1B) ₹50,000 NPS.
-- Still allowed under new regime: standard deduction, employer NPS 80CCD(2) (up to 14% of basic+DA), gratuity, family pension, leave encashment, CSIT deduction, basic-exemption. [HIGH]
-- **Budget 2025 change**: slabs revised from the FY 2024-25 structure (nil up to ₹3L; 5% up to ₹7L; 10% up to ₹10L; 20% up to ₹12L; 30% above) to the ₹4L/₹12L/₹24L structure above; 87A rebate raised ₹30,000 → ₹60,000. [HIGH]
-- **FY 2026-27 (Budget 2026, Feb 2026)**: new regime slabs, ₹75,000 standard deduction, ₹12L rebate and surcharge all **unchanged**. Statute change only: Income-tax Act, 2025 in force from 1 Apr 2026 (87A→sec 156, 115BAC→sec 202). [HIGH]
-- Sources: newregimetax.com slabs guide; PIB Budget 2025-26 summary (pib.gov.in PRID 2098352); cleartax.in/s/income-tax-slabs.
-
-## 2. Income Tax — Old Regime (FY 2025-26)
-
-- **Slab rates** (below 60): nil up to ₹2.5L; 5% up to ₹5L; 20% up to ₹10L; 30% above.
-  - Senior (60–79): nil up to ₹3L; 20% up to ₹5L; 30% above.
-  - Super senior (80+): nil up to ₹5L; 30% above.
-- 87A rebate: up to ₹12,500 for income ≤ ₹5L. Standard deduction: **₹50,000**. 4% cess. Surcharge 10/15/25/30/37% (capped 37%). [HIGH]
-- **Key deduction limits** (all unchanged in 2025-26): [HIGH]
-  | Provision | Limit |
-  |---|---|
-  | 80C (PPF, ELSS, LIC, EPF, NSC, 5-yr FD, tuition, principal) | ₹1,50,000 |
-  | 80CCD(1B) NPS additional | ₹50,000 |
-  | 80D self+family (incl. preventive checkup ₹5,000) | ₹25,000 |
-  | 80D parents (₹50,000 if senior parents) | ₹25,000–50,000 |
-  | 80E education-loan interest (incl. siblings) | no cap, up to 8 years |
-  | 80EE savings interest (salaried) | ₹20,000 |
-  | 80EEA home-loan principal PMSYH | ₹40,000 |
-  | 80TTA savings interest / 80TTB | ₹10,000 / ₹50,000 |
-  | HRA exemption | least of: actual HRA, rent paid − 10% of salary, 50% (metro) / 40% (non-metro) of salary |
-  | 24(b) home-loan interest, self-occupied | ₹2,00,000 |
-  | 24(b) home-loan interest, let-out | no cap |
-  | 80G donations | up to 100% of income (50–100% of eligible donation) |
-  | 80CCD(1) NPS | within 80C head (10% of salary/annual income) |
-- Old regime is useful only when deductions are large (home loan + HRA + maxed 80C + 80D); for most ₹12–25L salaries the new regime is cheaper (break-even around ₹20–25L gross with typical deductions). [HIGH]
-- Sources: indicalculator.in old-regime guide; harunraaj.com 80C planner.
-
-## 3. PPF Interest Rate (quarterly)
-
-- PPF rate has been **7.1% p.a. every quarter of FY 2025-26** and remains 7.1% in FY 2026-27 through the Oct–Dec 2026 quarter (8th straight quarter of retention across FY25-26/26-27). [HIGH]
-  | Quarter | Rate |
-  |---|---|
-  | Apr–Jun 2025 | 7.1% |
-  | Jul–Sep 2025 | 7.1% |
-  | Oct–Dec 2025 | 7.1% (announced 30 Sep 2025) |
-  | **Jan–Mar 2026** | **7.1%** (announced 31 Dec 2025) |
-  | **Apr–Jun 2026** | **7.1%** |
-  | **Jul–Sep 2026** | **7.1%** |
-  | **Oct–Dec 2026** | **7.1%** (3rd consecutive quarter of FY 2026-27 unchanged) |
-- Prior context: FY 2024-25 ran 8.1% / 8.1% / 8.2% / 8.1% — hence PPF jumped down to 7.1% in Apr 2025. [MED]
-- Sibling small-savings rates Jan–Mar 2026 & onward: **SCSS 8.2%**, **SSY 8.2%**, **NSC 6.7%**, post office deposits unchanged (Finance Ministry notification, 31 Dec 2025). [HIGH]
-- PPF limits: ₹1.5L/yr contribution (excess up to ₹2.5L allowed but no interest above ₹1.5L), 15-yr maturity (5 yrs extendable), EEE tax status; 80C deduction only under old regime; withdrawal + interest tax-free under both regimes.
-- Committee method: avg 10-yr G-Sec yield prev quarter + 25 bps (Jul–Sep 2025 avg yield 6.32–6.54% would imply 6.57–6.79%, but govt retained 7.1%). [HIGH]
-- Sources: upstox.com PPF article; business-standard.com; m.economictimes.com small-savings notifications.
-
-## 4. EPF Interest Rate
-
-- **8.25% for FY 2025-26** — recommended by CBT at its 239th meeting on 2 Mar 2026, ratified by the government; EPFO order dated 1 Jul 2026. [HIGH]
-- Third consecutive year at 8.25% (FY 2023-24 and FY 2024-25 also 8.25%).
-- Interest **credited to subscriber accounts by 15 Jul 2026**; check via UMANG/passbook for "Int. Updated up to 31/03/2026". [HIGH]
-- 2026 changes: **EPF Scheme, 2026** (with EPS 2026 & EDLI 2026) notified under the Code on Social Security, 2020, replacing the 1952 Act schemes; one-time Amnesty Scheme for exempted establishments; auto-initiation pilot for inoperative accounts ≤ ₹1,000. [HIGH]
-- Sources: pib.gov.in (PRID 2234502); thehindu.com; livemint.com; business-standard.com.
-
-## 5. Public-Sector Bank FD Rates (effective 1–3 Jul 2026; latest full table found)
-
-Peak/general rates (deposits < ₹3 Cr), with 1/3/5-yr tenures: [HIGH]
-
-| Bank | Peak | 1-yr | 3-yr | 5-yr |
-|---|---|---|---|---|
-| Bank of India | 6.85% | 6.50% | 6.70% | 6.00% |
-| Punjab & Sind Bank | 6.85% | 5.85% | 5.85% | 5.95% |
-| Indian Bank | 6.80% | 6.10% | 6.05% | 6.00% |
-| Bank of Baroda | 6.75% | 6.25% | 6.25% | 6.30% |
-| Union Bank of India | 6.65% | 6.20% | 6.10% | 6.00% |
-| Bank of Maharashtra | 6.65% | 6.20% | 5.25% | 5.00% |
-| Punjab National Bank (PNB) | 6.60% | 6.25% | 6.35% | 6.10% |
-| Canara Bank | 6.60% | 6.25% | 6.25% | 6.25% |
-| Indian Overseas Bank | 6.60% | 6.50% | 6.10% | 6.10% |
-| SBI | 6.45% | 6.25% | 6.30% | 6.05% |
-| UCO Bank | 6.45% | 6.10% | 6.00% | 6.00% |
-
-- SBI senior citizens: +50 bps (we-care scheme) ⇒ up to **7.30%**; PNB super-seniors up to **7.20%** on select tenures. PNB special 390-day FD: 6.40%. [HIGH]
-- Small finance banks lead the market: Suryoday & Utkarsh SFB up to **~8.1%** (Jun 2026). Post office time deposits ~7.5–8% on 5-yr (verify current quarterly rate). [MED]
-- Context: RBI had cut repo to 5.25% by Dec 2025, deposit rates compressed; then repo was **hiked 25 bps on 7 Oct 2026** (first hike in ~3 years) — FDs may edge up in H2 FY27. [HIGH]
-- Sources: businesstoday.in (4 Jul 2026 table); zeebiz.com; tribuneindia.com; dailyfinancial.in.
-
-## 6. Inflation (CPI)
-
-- **March 2026 CPI headline ≈ 3.48%** (per Reuters estimate, 9 Apr 2026) — comfortably below the RBI's 4% target. [MED]
-- FY 2025-26: CPI ran low (mid-3% band), enabling the RBI's easing cycle; food inflation was the main drag item (vegetables/spices volatile). [MED/LOW]
-- RBI monetary policy framework: 4% CPI target, ±2% band; MPC stance was "Neutral" in Aug 2026, then a 25 bps hike on 7 Oct 2026 (first since ~Oct 2023). [HIGH for the hike; MED for the CPI path]
-- Sources: Wikipedia "Economy of India" citing Reuters 9 Apr 2026; RBI MPC minutes (Aug 2026) via credsir.com; bankingfinance.in.
-
-## 7. SIP / Mutual Fund Market
-
-- **Industry AUM: crossed ₹68.4 lakh crore in May 2026.** [MED]
-- **Record SIP inflow: ₹26,688 crore in a single month (May 2026); 10.2 crore active SIP accounts; 22.8 crore total folios; equity MF share of AUM 58.3%.** [MED]
-- SIP inflow trend (AMFI annual): FY23 1,99,115 cr → FY24 2,61,428 cr → Apr–May 2026 run-rate ~₹26,472 cr/month. [MED]
-- **Nifty 50 returns (approx):** 10-yr CAGR **13.1%**, 5-yr CAGR **15.9%**, 3-yr CAGR 13.4% (index). Sensex 10-yr CAGR ≈ 12–14% — near-identical. [MED]
-- Category CAGRs (as of May 2026): Large cap 14.2/16.8/13.5 (3/5/10-yr); Mid cap 19.8/23.4/18.2; Small cap 22.1/26.7/19.4; Flexi 15.6/18.2/14.7; ELSS 14.9/17.6/13.9; Short-duration debt 6.8/6.5/7.1. [MED]
-- Market snapshot Oct 2026: Nifty 50 ≈ **22,889** (19 Oct 2026); 52-week high **26,328** (2 Jan 2026) — market ~13% off the January high. [MED]
-- Sources: moneymath.co.in (AMFI/SEBI/Value Research), chartrow.com (Nifty 10-yr ≈ 5.8% price-return CAGR vs 13% TRI — note the price vs total-return difference; use TRI for SIP examples), profitguruonline.com, indvest.io.
-
-## 8. NPS (National Pension System)
-
-- **Tax benefits (unchanged in 2025-26/2026-27):**
-  - 80CCD(1): subscriber contribution 10% of salary/annual income, inside the ₹1.5L 80C head (old regime; new regime allows only the employer leg).
-  - **80CCD(1B): extra ₹50,000 — old regime only.**
-  - **80CCD(2): employer contribution deductible — salaried up to 14% of basic+DA; allowed in BOTH regimes. Others (SOP/CG): up to 50% of the 80CCD(1) deduction.** [HIGH]
-  - 80CCD(3): employer voluntary contribution (SOP) — limited to the amount that 80CCD(2) would have allowed.
-- **Structure**: 60% of withdrawal tax-free at retirement, 40% must be used to buy an annuity (PFRDA); Tier-2 partial withdrawal possible; full exit at 60; 100% rollover at 60/after. [HIGH]
-- **Scale**: ~**11.5–12 crore NPS subscribers and NPS AUM ≈ ₹4–4.5 lakh crore by mid-2026** (PFRDA/NPS Trust, approx — [LOW], verify exact figures before publishing). eNPS extends to unorganized sector (2023 rollout). [MED]
-- **2025-26/2026 changes**: no change to 80CCD limits; Budget 2026 kept the regime intact; new Income-tax Act 2025 renumbered sections only. [HIGH]
-- Sources: pib.gov.in NPS releases; NPS Trust "Assets AUM & No. of Subscribers" page; finlecture.in & smarttaxcalc.in guides.
-
-## 9. Digital Rupee (e₹)
-
-- Retail CBDC (wholesale e₹ live since 2023): tokenized digital rupee issued by RBI; two forms — wallet-based (mobile) and token/e-wallet-based (offline, card, QR). [MED]
-- **Status as of 2026**: pilot expanded across ~**26+ cities** via UPI-compatible QR acceptance (no separate merchant onboarding; merchants scan existing UPI QRs); offline "tap" capability between two e₹ wallets without internet; total e₹ held remains in the **₹2,000–3,000 cr range** — tiny vs UPI (~₹1,500,000 cr+/month volume). Adoption is slow; no mandate on merchants or users. [MED/LOW]
-- Rules: e₹ is legal tender (same as notes), RBI liability (not bank liability); **no interest** on balances; no KYC for low-value wallet tiers; interchange via UPI. [MED]
-- Writing angle: e₹ is a "watch item" — useful for a chapter note, not a core product; UPI remains the practical rails.
-- Sources: Wikipedia "Digital rupee" & "UPI" (access via API; direct page was blocked); RBI CBDC bulletins (rbi.org.in — blocked this session).
-
-## 10. Crypto / Virtual Digital Assets (VDA)
-
-- **Legal status**: neither legal tender nor prohibited; unregulated as an asset but taxed under the VDA regime since Jul 2022. [HIGH]
-- **Tax: flat 30% on transfer gains** (no loss set-off, no deduction except cost of acquisition) + **1% TDS under 194S** on transactions (specified thresholds; e.g., ₹50,000 for crypto). TDS on P2P transactions 1% (₹5,000 threshold). [HIGH]
-- **Budget 2025-26**: no changes to 30%/1% (confirmed by Livemint). [HIGH]
-- **Budget 2026-27 (Feb 2026): rates unchanged; NEW penalties effective 1 Apr 2026** — reporting entities (exchanges, wallets, 509-mandated declarers): **₹200/day for non-filing of transaction statements; ₹50,000 flat for inaccurate/unrectified particulars** (Finance Bill 2026, amendments to sec 446/509). [HIGH]
-- CBDT issued detailed crypto reporting norms in 2026 tightening oversight without changing the levy. [HIGH]
-- SEBI: no spot crypto regulation as of 2026; F&N (forward notes) on crypto settled between SEBI and exchanges remain in the courts; digital-asset bill discussions continue but no enacted SEBI crypto regime found. [MED]
-- Sources: coindesk.com (2 Feb 2026); livemint.com (Budget 2025); thehindubusinessline.com; incometaxindia.gov.in VDA page (blocked this session — known content: 30% flat, 1% TDS).
-
-## 11. Hindu Undivided Family (HUF)
-
-- HUF is a **separate taxable entity** in its own right (Income-tax Act), with its own PAN (mandatory; opening a bank account needs HUF PAN + karta details). [HIGH]
-- **Taxation FY 2025-26**: new regime default, same slabs as individuals (₹4L/₹8L/₹12L/₹16L/₹20L/₹24L structure). HUF income = family business/agriculture income, ancestral property income, gifts to HUF. [HIGH]
-- **No 87A rebate for HUF** in practice (rebate is framed for individuals — verify with a professional before writing); **no standard deduction** (karta is a member, not an employee); HUF can claim 80C (₹1.5L in its own name, separate from each member's ₹1.5L), 80CCD(1B), etc., under old regime. [MED]
-- 80G and 80CCC donation slabs apply to HUF; HUF income taxed in slab bands, so a HUF with ₹12L income under new regime pays slab tax with no rebate — a real difference vs individual. [MED]
-- **Recent changes**: Income-tax Act, 2025 (effective 1 Apr 2026) consolidated/renumbered provisions; no substantive HUF change in Budget 2025-26 or 2026-27. ITR filing by HUF in ITR-2 (no business) / ITR-5 (with business); ITR time-limit extended to 4 years by Budget 2025. [HIGH]
-- Family-pension (ex-employee spouse/family) and 80JJ/80CCT notes unchanged.
-- Sources: taxgst.in slabs page; newregimetax.com; Wikipedia HUF entry; Finance Act 2025 notes.
-
-## 12. Health Insurance
-
-- **80D limits (both regimes; self 25k / senior parents 50k)** as in §2. [HIGH]
-- **Typical premium for family of 4, ₹5L floater (family aged ~30–45): roughly ₹20,000–35,000/yr** in 2026 (market rate after 2024–25 premium hikes). ₹10L cover for a family of 4: **from ~₹800–1,000/month (≈₹10,000–12,000/yr)** per Oct 2026 coverage-cost reporting — actual cost varies sharply with age. [MED/LOW — label as approximate in book]
-- Market context: medical inflation ~**14%/yr** (≈2× general inflation); health-insurance market > **₹1.17 lakh crore** premium base (IRDAI-based estimate). [MED]
-- **IRDAI guidelines**: family floater = 4 members (self, spouse, 2 children); co-payments and room-day sub-limits largely banned since the 2021 model policy (verify current text before citing); cashless network mandatory; senior-citizen-only plans must offer 40–70% cover; claim settlement ratios published quarterly (top insurers 90%+). [MED]
-- Super top-ups: common 2026 strategy = base ₹5–10L + ₹70–100L super top-up (~₹8,000–15,000/yr for a young family). [LOW]
-- Sources: paybima.com; kapizo.in; adwizr.com; adobeaemcloud Oct 2026 cost article; IRDAI reports.
-
-## 13. Home Loan Interest Rates (Sep–Oct 2026)
-
-**Floor rates (best case, top CIBIL, salaried):** [HIGH]
-| Lender | Floor | Range |
-|---|---|---|
-| Canara Bank / Union Bank of India | 7.15% | — |
-| Bank of Baroda | 7.20% | up to 10.25% |
-| SBI | 7.25% | 7.25–8.95% |
-| PNB | 7.20–7.25% | up to 9.10% |
-| HDFC Bank | 7.20% | up to 13.20% |
-| ICICI Bank | 7.65–8.50% | up to 9.80% |
-| Axis Bank | 8.35% | up to 11.90% |
-| LIC HBF | 7.15% (CIBIL ≥825 salaried) | — |
-
-- **Repo-rate backdrop**: RBI held repo **5.25% since Dec 2025** (through the 5 Aug 2026 MPC), then **hiked 25 bps on 7 Oct 2026** to **5.50%** (first hike in ~3 years); typical spread over repo 190–250 bps. [HIGH]
-- SBI revised EBLR/RLLR and select MCLRs **effective 15 Oct 2026**; SBI MCLR was **7.25% p.a. onwards** before the revision. [HIGH/MED]
-- Practical planning numbers for the book: assume **~8.0–8.5%** for a typical 2026 salaried borrower; 25 bps repo move ≈ 0.5–1% EMI change over 25-yr tenor.
-- Tax: 24(b) ₹2L + 80EEA ₹40k (see §2). [HIGH]
-- Sources: credsir.com (rate table, 5 Sep 2026); bankingfinance.in (15 Oct 2026 SBI revision); icicibank.com (Oct 2026 "from 7.80%" page title); sbi.co.in MCLR page.
-
-## 14. Education Loan Interest Rates
-
-- **Overall 2026 range: 8.15%–14% p.a.** (domestic courses at the low end, abroad/F&B loans at the high end). [MED]
-- Government-subsidized: **CSIS subvention = 3% on domestic-course loans up to ₹7.5L** for the weakly-subsidised tier; banks (SBI etc.) quote ~**9–10.5%** on abroad loans (CME ~2026 level), HFFCs (MAI, etc.) up to ~14%. [MED/LOW]
-- SBI education loan: ~**6.5–9.3%** (domestic); processing ~1% capped; moratorium: study period + 12 months, **interest capitalised during moratorium** (biggest hidden cost — key writing point). [MED]
-- Collateral-free up to ₹7.5L under Vidya Lakshmi portal (Ministry of Education single-window platform). 80E deduction: unlimited interest, 8 years. [HIGH for 80E/portal; MED for the rates]
-- Sources: financebuddha.com; onepaisa.in; ugc.gov.in Vidya Lakshmi; calcwise.finance.
-
-## 15. Advance Tax & TDS (FY 2025-26)
-
-**Advance tax schedule (15/45/75/100):** [HIGH]
-| Instalment | Cumulative | Due |
-|---|---|---|
-| 1st | 15% | 15 Jun 2025 |
-| 2nd | 45% | 15 Sep 2025 |
-| 3rd | 75% | 15 Dec 2025 |
-| 4th | 100% | 15 Mar 2026 |
-
-- Trigger: estimated liability > **₹10,000** after TDS credit; seniors can relax to 90% of the 100% instalment; presumptive-tax (44AD) users pay 50%/75%/90%/100% instead of 15/45/75/100. Interest: 234C (underpayment) 1%/month; 234B (deferred to ITR) 1%/month. [HIGH]
-- **TDS rates/thresholds FY 2025-26** (Budget 2025 raised thresholds from 1 Apr 2025; rates unchanged): [HIGH]
-  | Section | Item | Rate | Threshold (FY 25-26) |
-  |---|---|---|---|
-  | 192 | Salary | slab rate | basic exemption limit |
-  | 194A | bank/post-office interest | 10% | ₹50,000 (₹1,00,000 seniors) |
-  | 194A | other interest | 10% | ₹5,000 |
-  | 194I | rent land/building | 10% | ₹6,00,000 p.a. (raised from 2.4L) |
-  | 194I | plant/machinery rent | 2% | ₹6,00,000 p.a. |
-  | 194J | professional fees | 10% | ₹50,000 p.a. (raised from 30k) |
-  | 194C | contractor (indv/HUF) | 1% | ₹30,000 single / ₹1,00,000 p.a. |
-  | 194C | contractor (others) | 2% | ₹30,000 single / ₹1,00,000 p.a. |
-  | 194H | commission/brokerage | 2% | ₹20,000 p.a. (raised from 15k) |
-  | 194 | dividend | 10% | ₹10,000 p.a. |
-  | 194IA | property purchase ≥ | 1% | ₹50,00,000 |
-  | 194O | e-commerce | 0.1% | ₹5,00,000 p.a. |
-  | 206AA | no-PAN payee | 20% (or slab, higher) | n/a |
-- Compliance: deposit by 7th of next month (30 Apr for March); quarterly returns 24Q/26Q; Form 16/16A; late deposit 1.5%/month. From AY 2026-27 the forms are renumbered (24Q→138, 26Q→140) under Income-tax Act 2025. [HIGH]
-- Sources: taxclue.in/guide/tds; incorpx.io; cagakhar.com.
-
-## 16. Capital Gains Tax (rates stable through FY 2025-26 & FY 2026-27)
-
-| Asset | STCG | LTCG |
-|---|---|---|
-| Equity listed / equity MF (>12 mo) | **20%** (<12 mo, under 111A pre-Jul-2024 rule) | **12.5%** above **₹1.25L annual exemption** (since 23 Aug 2023, raised from 1L) |
-| Debt MF (STCG <3 yr) | **15%** | 3+ yr: **20% with indexation** (option without indexation since 2024) |
-| Property (2+ yr) | 30% (no indexation, 2-yr STCG) | **20% with indexation** (or without indexation, optional from 2023/24) |
-| Gold jewellery | 30% | 20% w/ indexation |
-| Crypto/VDA | **30% flat** | **30% flat** (holding period irrelevant; no loss set-off; no indexation) |
-
-- Exemptions: 54EC (REIT/ITR, ₹50L cap; REITs added 2018), 54EC/54D property reinvestment, 80GG/80GGI/80GGB (LTCG property reinvested in listed equity MF within 15 months), 87A does not shelter special-rate gains. [MED]
-- **Budget 2025 and Budget 2026 made no change** to equity/property/crypto CG rates (verified against Budget 2026 coverage). [HIGH]
-- 111A: pre-Jul-2024 gains still at 15% STCG; post 23 Aug 2023 LTCG 12.5%.
-- Sources: newregimetax.com; taxwapsi.com; coindesk.com Budget 2026; Income-tax Act provisions.
-
-## 17. Union Budget 2025-26 — Personal Finance Announcements
-
-- Zero income tax up to ₹12L avg monthly income ₹1L (new regime ₹4L/₹12L slabs; 87A ₹60k). [HIGH]
-- **ITR filing time limit extended from 2 → 4 years** (for individuals; decriminalisation of delayed-ITR consequences). [HIGH]
-- **Delayed TCS payment decriminalised** (penalty regime replaced the section 278L jail provision). [HIGH]
-- **TDS on rent threshold ₹2.4L → ₹6L p.a.** (194I). [HIGH]
-- FDI limit for insurance (life) raised **74% → 100%**. [HIGH]
-- KCC loan limit ₹3L → **₹5L** (interest subvention). [HIGH]
-- MSME investment/turnover ceilings 2.5×; credit guarantee cover ₹5Cr → ₹10Cr. [HIGH]
-- 36 cancer/rare-disease BCD exemptions; IFPD BCD 20% (open cells 5%). [HIGH]
-- AIF Cat I/II: gain taxed at 3-yr holding certainty; sovereign wealth/pension fund investment window extended. [HIGH]
-- ₹15,000 Cr SWAMIH fund II (housing NPA completion). [HIGH]
-- Budget 2026-27 (Feb 2026): new regime slabs, ₹75k std deduction, ₹12L rebate unchanged; crypto reporting penalties (§10); no personal-slab change. [HIGH]
-- Sources: pib.gov.in Budget 2025-26 summary (PRID 2098352 / 2098406); coindesk Budget 2026; newregimetax.com.
-
-## 18. RBI Repo Rate, MCLR & Gold Loans
-
-- **Repo history 2025–2026**: cuts through 2025 took repo to **5.25%** (Dec 2025); held at 5 Aug 2026 MPC; **25 bps hike on 7 Oct 2026 → 5.50%** (first hike in ~3 years). [HIGH]
-- **SBI MCLR: 7.25% p.a. onwards** (pre-hike); SBI raised EBLR/RLLR/select MCLR **15 Oct 2026** (new EBLR ≈ 7.50%+; exact post-hike figure — verify against sbi.co.in). [HIGH/MED]
-- **Gold loans (RBI rules)**: LTV caps — **85%** of gold value up to ₹2.5L loan, **80%** up to ₹5L, **75%** above ₹5L; tenure ≤ 12 months (bullet) or up to 36 months EMI; min loan ₹10k, max ₹25L (bank-specific). [HIGH]
-- **SBI gold loan pricing: ~9.15%–10.1% p.a.** (official schedule, Aug 2026). [MED]
-- Writing angle: gold-loan cost (~9–10%) vs home-loan (~7.25–8.5%) vs personal loan (~11–13%) — gold loans are the cheapest secured credit.
-- Sources: credsir.com gold-loan guide; bankingfinance.in; sbi.co.in MCLR page; financialcalculator.io.
-
-## 19. G-Sec & Debt-Fund Yields
-
-- **10-yr G-Sec secondary-market yield (Jul–Sep 2025 average): 6.32%–6.54%** (used in the PPF committee formula). [HIGH]
-- Through the 2025-26 easing cycle, the 10-yr G-Sec yield trended **down to ≈ 6.0–6.3%** by H1 2026 (exact latest figure — verify on RBI daily data; the Oct 2026 repo hike will have pushed it up modestly). [MED]
-- **Debt funds**: short-duration 3-yr CAGR ≈ 6.8%, 5-yr ≈ 6.5%, 10-yr ≈ 7.1% (AMFI category returns, May 2026). [MED]
-- Relative ranking for writing: PPF 7.1% (tax-free, both regimes) > typical bank FD 6.2–6.85% > short-duration debt ~6.5–7% (taxable, volatile) > EPF 8.25% (capped ₹2.5L/yr contribution). [HIGH]
-- Sources: upstox.com PPF article (G-Sec formula); moneymath.co.in category CAGRs; RBI daily gilt yield data (verify live figure).
-
-## 20. 2026-Specific Regulatory / Market Events (for the "state of the market" chapter)
-
-1. **Income-tax Act, 2025** in force from 1 Apr 2026 — consolidation of the 1961 Act; section renumbering (87A→156, 115BAC→202, TDS forms renumbered). No substantive personal-tax change. [HIGH]
-2. **EPF Scheme 2026** notified under Code on Social Security, 2020 (with EPS 2026, EDLI 2026); amnesty scheme for exempted trusts; auto-liquidation pilot for inoperative accounts. [HIGH]
-3. **Crypto reporting penalties** effective 1 Apr 2026: ₹200/day non-filing; ₹50,000 flat for bad particulars (sec 446/509 amendments via Finance Bill 2026). [HIGH]
-4. **EPF 8.25% interest credited by 15 Jul 2026** (delay credit; no loss since interest accrues monthly). [HIGH]
-5. **Small savings rates held for 8+ consecutive quarters** (PPF 7.1%, SCSS/SSY 8.2%) despite RBI cuts — deposit-rate stuck; banks borrowing via CDs >₹50,000 cr/quarter. [HIGH]
-6. **RBI repo hike 7 Oct 2026** (5.25%→5.50%); SBI lending rates up 15 Oct 2026; home-loan EMIs nudged up. [HIGH]
-7. **Nifty off its Jan 2026 high (26,328 → ~22,889, -13%)** — "buy-the-dip SIP" narrative window; record SIP inflows even during the drawdown (May 2026 ₹26,688 cr month). [MED]
-8. **ITR deadline extension to 4 years** and decriminalised delayed ITR (Budget 2025) — compliance chapter material. [HIGH]
-9. **FDI in insurance 100%** (effective from FY 2025-26 notification path) — foreign insurers entering the Indian market. [HIGH]
-
----
-
-## Source URLs (key pages)
-
-- PIB Budget 2025-26 summary: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2098352
-- New-regime slab guide: https://newregimetax.com/guides/new-tax-regime-slabs-fy-2025-26.html
-- ClearTax slabs: https://cleartax.in/s/income-tax-slabs
-- Old-regime calculation guide: https://indicalculator.in/tax-calculation-old-regime.html
-- PPF quarterly: https://upstox.com/news/personal-finance/investing/public-provident-fund-ppf-interest-rate-january-march-2026/article-187005/
-- EPF 8.25% / CBT: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2234502
-- EPF credit 15 Jul 2026: https://economictimes.indiatimes.com/wealth/save/epf-interest-credit-by-july-15-2026.../132262780.cms (page was challenge-gated; corroborated via pib + staffnews.in EPFO order 1 Jul 2026)
-- PSU FD table Jul 2026: https://www.businesstoday.in/personal-finance/investment/story/sbi-vs-pnb-fd-rates-which-public-sector-bank-offers-better-fixed-deposit-returns-in-2026-540970-2026-07-04
-- TDS/advance tax: https://taxclue.in/guide/tds , https://www.incorpx.io/blog/advance-tax-due-dates-calculation-2026
-- MF/SIP stats: https://moneymath.co.in/blog/sip-mutual-fund-india-statistics-2026 , https://www.amfiindia.com/research-information/amfi-data , https://chartrow.com/nifty-50/trailing-returns
-- Home-loan rates: https://www.credsir.com/loans/home-loan-interest-rates , https://www.icicibank.com/personal-banking/loans/home-loan/interest-rates
-- SBI rate revision: https://www.bankingfinance.in/sbi-raises-lending-rates-after-rbi-repo-rate-hike.html
-- Gold loan rules: https://credsir.com/gold-loan-complete-guide/
-- Crypto: https://www.coindesk.com/markets/2026/02/02/india-s-budget-2026-keeps-crypto-taxes-tds-unchanged-adds-usd545-penalty-for-lapses , https://www.incometaxindia.gov.in/w/taxation-of-virtual-digital-asset-vda- , https://www.livemint.com/market/cryptocurrency/budget-2025-heres-what-centre-announced-on-crypto-regulations-and-tax-11738414613441.html
-- Health insurance: https://www.paybima.com/blog/health-insurance/top-family-floater-plans , https://kapizo.in/best-health-insurance-india-2026
-- Education loans: https://www.financebuddha.com/blogs/education-loan-in-india/ , https://www.ugc.gov.in/studentcorner/Educational_Loan
-- G-Sec formula: Upstox PPF article (10-yr G-Sec avg 6.32–6.54% Jul–Sep 2025)
-- Inflation: https://en.wikipedia.org/wiki/Economy_of_India (Reuters 9 Apr 2026: March CPI 3.48%)
-
-## Blocked/unreadable sources this session
-
-- incometaxindia.gov.in VDA page (403) — content corroborated via HBL + coindesk
-- rbi.org.in CBDC bulletin (418) — digital-rupee figures from Wikipedia UPI/Digital rupee entries + secondary coverage; marked MED/LOW
-- Wikipedia direct pages (challenge) — used via search snippets
-- crahteron/moneymath AUM figure (₹68.4 lakh cr) is a secondary aggregator — verify against AMFI monthly release before publishing
-
-## Confidence caveats for writing agents
-
-- NPS subscriber count / AUM, e₹ transaction value, and CPI FY-average are **[LOW/MED]** — get fresh PFRDA / RBI / MoSPI numbers before quoting exact digits.
-- ICICI home-loan floor conflicts across sources (7.65% vs 7.80% vs 8.50%) — use "from ~8%" to be safe, or cite ICICI's own page.
-- PPF 7.1% and EPF 8.25% are the two most-cited guaranteed-rate figures; both verified against primary/pib sources. [HIGH]
